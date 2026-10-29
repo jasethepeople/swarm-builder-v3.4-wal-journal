@@ -1,0 +1,1 @@
+{"build":{"beforeDevCommand":"bun run dev","beforeBuildCommand":"bun run build","devUrl":"http://localhost:1420","frontendDist":"../build"},"app":{"windows":[{"title":"Swarm Builder V3.1","width":1400,"height":900}],"security":{"csp":null}},"bundle":{"active":true,"targets":"all","identifier":"com.swarm.builder"}}

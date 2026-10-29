@@ -1,0 +1,1 @@
+import { invoke } from "@tauri-apps/api/core"; export const connect=(peerId:string,address:string)=>invoke("mesh_connect",{peerId,address});
